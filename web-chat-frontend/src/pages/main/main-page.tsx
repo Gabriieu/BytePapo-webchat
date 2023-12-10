@@ -61,12 +61,10 @@ export const MainPage = () => {
               <h1>José Gabriel</h1>
               <p>
                 Olá, seja bem vindo ao meu projeto "byte papo". Para que você
-                tire o melhor proveito e veja o funcionamento,{" "}
-                <a href="http://localhost:5173" target="_blank">
-                  abra outra aba
-                </a>{" "}
-                e logue com outra conta, assim você verá as mensagens de cada
-                usuário como se fossem usuários distintos trocando mensagens.
+                tire o melhor proveito e veja o funcionamento, abra essa
+                aplicação em dois navegadores diferentes, e logue com outra
+                conta, assim você verá as mensagens de cada usuário como se
+                fossem usuários distintos trocando mensagens.
               </p>
             </div>
           </li>
